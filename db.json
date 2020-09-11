@@ -1,36 +1,36 @@
 {
   "employees": [
     {
-      "id": "1",
-      "employeeName": "Joseph Vivas",
+      "id": 1,
+      "name": "Joseph Vivas",
       "contractType": ["hourly"],
       "hourlySalary": "55",
       "monthlySalary": "4000"
     },
     {
-      "id": "2",
-      "employeeName": "Roberto Chain",
+      "id": 2,
+      "name": "Roberto Chain",
       "contractType": ["mountly", "hourly"],
       "hourlySalary": "30",
       "monthlySalary": "3000"
     },
     {
-      "id": "3",
-      "employeeName": "Luis Palacios",
+      "id": 3,
+      "name": "Luis Palacios",
       "contractType": ["mountly", "hourly"],
       "hourlySalary": "32",
       "monthlySalary": "3800"
     },
     {
-      "id": "4",
-      "employeeName": "Carlos Rendon",
+      "id": 4,
+      "name": "Carlos Rendon",
       "contractType": ["mountly"],
       "hourlySalary": "85",
       "monthlySalary": "24000"
     },
     {
-      "id": "5",
-      "employeeName": "Maria Ramirez",
+      "id": 5,
+      "name": "Maria Ramirez",
       "contractType": ["mountly"],
       "hourlySalary": "33",
       "monthlySalary": "36000"
