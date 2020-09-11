@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  height: calc(100vh - 80px);
+  padding: 40px;
+
+  & > .section {
+    display: flex;
+    justify-content: center;
+
+    & > button {
+      margin-left: 20px;
+    }
+
+    & > .MuiTextField-root {
+      width: 20rem;
+    }
+  }
+
+  & > .MuiTableContainer-root {
+    margin-top: 2rem;
+  }
+}
